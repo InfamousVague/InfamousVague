@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+# Matt Wisniewski
+
 I’ve been building things with JavaScript for years, long enough to see it go from powering tiny browser scripts to being the backbone of full platforms. It’s the language I know best, but I’ve also picked up Rust, Solidity, and C# along the way when projects needed something faster, safer, or just different. What I enjoy most is taking an idea that feels almost impossible and breaking it down until it’s something real that people can actually use.
 
 ### Featured Projects
