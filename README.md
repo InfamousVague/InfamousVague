@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 # Matt Wisniewski
+![Looking for Work](https://img.shields.io/badge/Available%20for%20Hire-%F0%9F%9A%80-blueviolet?style=for-the-badge&logo=javascript)
 
 I’m currently **open to new opportunities** as a JavaScript/Full-Stack Engineer!
+
 📬 Reach me on [LinkedIn](https://www.linkedin.com/in/matthew-wisniewski-a959a041/) or by email: **infamousvaguerat@gmail.com**
 
 ## About Me
