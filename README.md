@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 
 # Matt Wisniewski
+[![Looking for Work](https://img.shields.io/badge/Looking%20for%20Work-Looking%20for%20Work%20%20%F0%9F%9A%80%20JavaScript%20%7C%20TypeScript%20%7C%20Rust%20%7C%20Solidity%20%7C%20C%23%20%7C%20Svelte-blueviolet?style=for-the-badge&logo=javascript&logoColor=white)](https://www.linkedin.com/in/matthew-wisniewski-a959a041/)
+
 [![Looking for Work](https://img.shields.io/badge/✅-Looking%20for%20Work%20|%20JavaScript%20🟨|%20TypeScript%20🟦|%20Rust%20🦀|%20Solidity%20💎|%20C%23%20🔵|%20Svelte%20🟥-brightgreen?style=for-the-badge)](https://www.linkedin.com/in/matthew-wisniewski-a959a041/)
 
 I’m currently **open to new opportunities** as a JavaScript/Full-Stack Engineer!
