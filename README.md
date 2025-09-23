@@ -33,5 +33,9 @@ I’ve been building things with JavaScript for years, long enough to see it go 
 
 - [**RetrosGenerators**](https://github.com/InfamousVague/RetrosGenerators) - A plugin for Minecraft that lets players build custom generator blocks for mini-games. It’s a smaller project, but it’s been picked up by others in the community and continues to get downloads long after I wrote it.  
 
+## Tech Stack
 
-I like working on projects that matter! Whether that’s a big system with lots of moving parts or a smaller tool that makes life easier for other developers.
+**Languages & Frameworks** : JavaScript, TypeScript, React, Svelte, NodeJS, Rust, Solidity, Java, Go  
+**Tools & Platforms** : WebAssembly, Node.js, Git, Figma, Atlassian Suite, Adobe Suite  
+**Methodologies** : Agile/Scrum, Product Ownership, Automated Testing
+
