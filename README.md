@@ -14,9 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I’m a full-stack engineer with deep roots in JavaScript, having worked with the language for over a decade across frontend, backend, and tooling. Over the years I’ve built everything from lightweight developer utilities to large, distributed applications designed for production use. My experience spans the entire lifecycle — prototyping, architecting modular systems, shipping reliable code, and maintaining complex projects with active user communities.
-Much of my open-source work centers on building decentralized and developer-facing tools:
+I’ve been building things with JavaScript for years, long enough to see it go from powering tiny browser scripts to being the backbone of full platforms. It’s the language I know best, but I’ve also picked up Rust, Solidity, and C# along the way when projects needed something faster, safer, or just different. What I enjoy most is taking an idea that feels almost impossible and breaking it down until it’s something real that people can actually use.
+
+### Featured Projects
+
+- [**Uplink**](https://github.com/Satellite-im/Uplink) - A secure, peer-to-peer chat client built on Rust, IPFS, and LibP2P. I helped shape how messages and peers flow through the system, making sure it stays private and reliable at scale. It’s been starred and forked by other developers, which is always a good sign that the work is useful beyond my own circle.  
+
+- [**UplinkWeb**](https://github.com/Satellite-im/UplinkWeb) - The browser side of Uplink, written in Svelte and TypeScript. I focused on real-time updates and performance here, making sure the frontend could keep up with the distributed backend without feeling clunky.  
+
+- [**RetrosGenerators**](https://github.com/InfamousVague/RetrosGenerators) - A plugin for Minecraft that lets players build custom generator blocks for mini-games. It’s a smaller project, but it’s been picked up by others in the community and continues to get downloads long after I wrote it.  
 
 
-
-Across all of these projects, the throughline is my ability to design and deliver high-impact JavaScript code: modern frontend frameworks (Svelte, Nuxt, React), backend services, package managers, and real-time systems. I’ve worked in TypeScript extensively, and I’m equally comfortable bridging into Rust, Solidity, or C# when a project demands it.
+I like working on projects that matter! Whether that’s a big system with lots of moving parts or a smaller tool that makes life easier for other developers.
