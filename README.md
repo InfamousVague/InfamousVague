@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **InfamousVague/InfamousVague** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I’m a full-stack engineer with deep roots in JavaScript, having worked with the language for over a decade across frontend, backend, and tooling. Over the years I’ve built everything from lightweight developer utilities to large, distributed applications designed for production use. My experience spans the entire lifecycle — prototyping, architecting modular systems, shipping reliable code, and maintaining complex projects with active user communities.
+Much of my open-source work centers on building decentralized and developer-facing tools:
+
+
+
+Across all of these projects, the throughline is my ability to design and deliver high-impact JavaScript code: modern frontend frameworks (Svelte, Nuxt, React), backend services, package managers, and real-time systems. I’ve worked in TypeScript extensively, and I’m equally comfortable bridging into Rust, Solidity, or C# when a project demands it.
